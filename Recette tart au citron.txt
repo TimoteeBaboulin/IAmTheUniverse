@@ -1,0 +1,48 @@
+Prechauffer le four 180° (therm 6)
+Separer blancs et jaunes d'oeufs
+Mettre jaune d'oeufs, le sucre et 2 cuillères d'eau dans le conteneur 1
+Pendant que le contenu du conteneur 1 ne mousse pas:
+	Fouetter le contenu du conteneur 1
+Couper le beurre en petits cubes
+Mettre la farine et le beurre dans le conteneur 2
+Pendant que le contenu du conteneur n'a pas de consistance sableuse
+	Melanger le contenu du conteneur 2 au doigt
+Verser le conteneur 1 au milieu du conteneur 2
+Melanger le tout avec un couteau
+Former le contenu en une boule avec les mains
+Pendant que la boule n'est pas homogene:
+	Ecraser la boule
+	Reformer la boule a la main
+Tapisser un moule de 25cm de diametre avec le resultat
+Recouvrir la pate avec un papier sulfurise
+Recouvrir le papier sulfurise de haricots secs
+Cuir la pate a blanc pour 20 a 25 minutes
+Pendant que la pate cuit:
+	Laver les citrons
+	Raper 2 citrons
+	Recuperer leur zeste
+	Presser les citrons dans une casserole
+	Rajouter le zeste dans la casserole
+	Rajouter le sucre dans la casserole
+	Rajouter la maizena dans la casserole
+	Remuer le tout
+	Mettre a chauffer a feux doux
+	Battre les oeufs dans le recipient 3
+	Rajouter les oeufs dans la casserole tout en remuant
+	Mettre a feu vif
+	Remuer a l'aide d'un fouet
+	Enlever du feu
+Verser la creme au citron sur la pate cuite
+Mettre le four a 120/150°
+Mettre la tarte a refroidir
+Pendant que les blancs d'oeufs ne sont pas ferme:
+	Monter les blancs en neige
+	Rajouter une pincee de sel
+Ajouter le sucre
+Ajouter la levure
+Pendant que la neige n'est pas ferme:
+	Fouetter le melange
+Recouvrir la creme de citron avec le melange
+Mettre la tarte a cuire
+Attendre que la meringue dore
+		
